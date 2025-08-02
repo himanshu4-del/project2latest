@@ -789,9 +789,9 @@
             width: 113%;
             height: 156%;
         }
-contact:before{
+#contact::before{
     height:116;
-    width:117%;
+    width:116%;
 }
 .h-primary{
     margin-top:393;
@@ -803,5 +803,6 @@ contact:before{
 #nav::before {
     width:113%;
 }
+
 
 
