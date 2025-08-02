@@ -772,14 +772,14 @@
       #home h1 {
     font-family: "Bree Serif", serif;
     font-weight: lighter;
-    margin-left: 66px;
+    margin-left: 58px;
 
    
 }
 
 #home p{
     text-align: center;
-    margin-left: 50px;
+    margin-left: 42px;
 }
 
 #contact::before{
@@ -807,8 +807,13 @@
 
 #btn {
             width: 110px;
-            margin-left: 80px;
+            margin-left: 75px;
         }
+
+        #services .box {
+            margin-left: 38px;
+        }
+
 
 
 
