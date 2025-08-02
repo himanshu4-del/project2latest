@@ -772,13 +772,14 @@
       #home h1 {
     font-family: "Bree Serif", serif;
     font-weight: lighter;
-    margin-left: 30px;
+    margin-left: 66px;
 
    
 }
 
 #home p{
     text-align: center;
+    margin-left: 50px;
 }
 
 #contact::before{
@@ -797,12 +798,18 @@
     margin-top:393px;
 }
     .footer{
-        margin-top: 70px;
+        margin-top: 60px;
         width:113%;
     }
 #nav::before {
     width:113%;
 }
+
+#btn {
+            width: 110px;
+            margin-left: 80px;
+        }
+
 
 
 
