@@ -759,7 +759,7 @@
     }
 } 
 #home::before{
-    width: 107%;
+    width: 115%;
 }
 
         .footer {
@@ -790,19 +790,18 @@
             height: 156%;
         }
 contact:before{
-    height:106;
-    width:114%;
+    height:116;
+    width:117%;
 }
 .h-primary{
     margin-top:393;
 }
     .footer{
-        margin-top: 125px;
+        margin-top: 188px;
         width:113%;
     }
 #nav::before {
-    width:111%;
-}
-contact:before{
     width:113%;
 }
+
+
