@@ -790,11 +790,11 @@
             height: 156%;
         }
 #contact::before{
-    height:116;
+    height:116%;
     width:116%;
 }
 .h-primary{
-    margin-top:393;
+    margin-top:393px;
 }
     .footer{
         margin-top: 188px;
@@ -803,6 +803,7 @@
 #nav::before {
     width:113%;
 }
+
 
 
 
