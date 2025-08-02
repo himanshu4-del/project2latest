@@ -9,6 +9,7 @@
     
     #logo {
         margin: 5px 0;
+        
     }
     
     #logo img {
@@ -782,4 +783,26 @@
 
 #contact::before{
     width: 107%;
+
+}
+        #client-section::before {
+            width: 113%;
+            height: 156%;
+        }
+contact:before{
+    height:106;
+    width:114%;
+}
+.h-primary{
+    margin-top:393;
+}
+    .footer{
+        margin-top: 125px;
+        width:113%;
+    }
+#nav::before {
+    width:111%;
+}
+contact:before{
+    width:113%;
 }
